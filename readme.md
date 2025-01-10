@@ -8,12 +8,14 @@ Da wir nur sehr kurz Zeit haben für dieses Projekt habe ich mich entschieden ei
 
 ## 10.1.2025
 
-- [ ] Ich werde das Win Forms erstellen und dann recherchieren wie ich am besten ein Tic Tac Toe mache.
-- [ ] Ich fange an mein Tic Tac Toe zu erstellen
+- [x] Ich werde das Win Forms erstellen und dann recherchieren wie ich am besten ein Tic Tac Toe mache.
+- [x] Ich fange an mein Tic Tac Toe zu erstellen
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich mein Tic Tac Toe Feld erstellt, ich habe buttons hinzugefügt. Man spielt 1 gegen 1 gegen eine CPU, also einen Computer. Ich habe 2 Namen erstellt so das man dann sieht wer wie viele Punkte hat. 
 
  
-
-## ...
+- [ ] Ich füge den Buttons aktionen hinzu (informieren)
+- [ ] Ich füge den Buttons aktionen hinzu
+- [ ] Ich schaue das meine CPU (gegner) die spielt funktioniert
+- [ ] Ich gestalte die buttons ansprechender
 
