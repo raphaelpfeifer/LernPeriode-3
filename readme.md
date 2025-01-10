@@ -4,17 +4,16 @@
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-4. Was wäre ein geeignetes Projekt für diese LP3?
+Da wir nur sehr kurz Zeit haben für dieses Projekt habe ich mich entschieden ein Tic Tac Toe zu machen. Dies mache ich mit Hilfe von Win Forms um dies besser kennenzulernen.
 
 ## 10.1.2025
 
-- [ ] ...
-- [ ] ...
+- [ ] Ich werde das Win Forms erstellen und dann recherchieren wie ich am besten ein Tic Tac Toe mache.
+- [ ] Ich fange an mein Tic Tac Toe zu erstellen
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+ 
 
 ## ...
 
