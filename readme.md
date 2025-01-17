@@ -14,8 +14,10 @@ Da wir nur sehr kurz Zeit haben für dieses Projekt habe ich mich entschieden ei
 Heute habe ich mein Tic Tac Toe Feld erstellt, ich habe buttons hinzugefügt. Man spielt 1 gegen 1 gegen eine CPU, also einen Computer. Ich habe 2 Namen erstellt so das man dann sieht wer wie viele Punkte hat. 
 
  
-- [ ] Ich füge den Buttons aktionen hinzu (informieren)
-- [ ] Ich füge den Buttons aktionen hinzu
+- [x] Ich füge den Buttons aktionen hinzu (informieren)
+- [x] Ich füge den Buttons aktionen hinzu
 - [ ] Ich schaue das meine CPU (gegner) die spielt funktioniert
-- [ ] Ich gestalte die buttons ansprechender
+- [x] Ich gestalte die buttons ansprechender
+
+## 17.01.2025
 
