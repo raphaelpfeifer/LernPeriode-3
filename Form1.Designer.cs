@@ -72,6 +72,7 @@
             button1.TabIndex = 2;
             button1.Text = "?";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += PlayerClickButton;
             // 
             // button2
             // 
@@ -82,6 +83,7 @@
             button2.TabIndex = 3;
             button2.Text = "?";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += PlayerClickButton;
             // 
             // button9
             // 
@@ -92,6 +94,7 @@
             button9.TabIndex = 10;
             button9.Text = "?";
             button9.UseVisualStyleBackColor = true;
+            button9.Click += PlayerClickButton;
             // 
             // button3
             // 
@@ -102,6 +105,7 @@
             button3.TabIndex = 13;
             button3.Text = "?";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += PlayerClickButton;
             // 
             // button4
             // 
@@ -112,6 +116,7 @@
             button4.TabIndex = 12;
             button4.Text = "?";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += PlayerClickButton;
             // 
             // button5
             // 
@@ -122,6 +127,7 @@
             button5.TabIndex = 11;
             button5.Text = "?";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += PlayerClickButton;
             // 
             // button6
             // 
@@ -132,6 +138,7 @@
             button6.TabIndex = 16;
             button6.Text = "?";
             button6.UseVisualStyleBackColor = true;
+            button6.Click += PlayerClickButton;
             // 
             // button7
             // 
@@ -142,6 +149,7 @@
             button7.TabIndex = 15;
             button7.Text = "?";
             button7.UseVisualStyleBackColor = true;
+            button7.Click += PlayerClickButton;
             // 
             // button8
             // 
@@ -152,17 +160,19 @@
             button8.TabIndex = 14;
             button8.Text = "?";
             button8.UseVisualStyleBackColor = true;
+            button8.Click += PlayerClickButton;
             // 
             // button10
             // 
             button10.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button10.ForeColor = Color.Blue;
-            button10.Location = new Point(244, 751);
+            button10.Location = new Point(162, 765);
             button10.Name = "button10";
-            button10.Size = new Size(200, 67);
+            button10.Size = new Size(367, 67);
             button10.TabIndex = 17;
-            button10.Text = "Restart";
+            button10.Text = "Restart Game";
             button10.UseVisualStyleBackColor = true;
+            button10.Click += RestartGame;
             // 
             // CPUTimer
             // 
