@@ -21,3 +21,8 @@ Heute habe ich mein Tic Tac Toe Feld erstellt, ich habe buttons hinzugefügt. Ma
 
 ## 17.01.2025
 
+Heute habe ich den Code für mein Tik Tac Toe angefangen zu schreiben. Ich habe einen Timer hinzugefügt damit die CPU nicht ewig lang braucht aber auch nicht immer direkt nach 0.1 sekuunde schon gemacht hat. Dadurch fühlt es sich echter an. 
+
+- [ ] Den Code fertig schreiben damit es funktioniert
+- [ ] Den Code fertig schreiben damit es funktioniert
+- [ ] Den Code schön schreiben und noch die letzten Fehler überarbeiten.
